@@ -1,4 +1,7 @@
-package me.hansong.helloworld;
+package me.hansong.helloworld.decoupled;
+
+import me.hansong.helloworld.MessageProvider;
+import me.hansong.helloworld.MessageRenderer;
 
 import java.util.Properties;
 
