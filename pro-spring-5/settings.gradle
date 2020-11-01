@@ -1,4 +1,0 @@
-rootProject.name = 'pro-spring-5'
-
-include 'ch02-getting_started'
-include 'ch03-ioc_and_di_in_spring'
